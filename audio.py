@@ -43,4 +43,6 @@ plt.ylabel('Amplitude som')
 plt.title('FFT')
 # plt.savefig('dominio_frequencia.png', dpi=300, bbox_inches='tight')
 
+
+
 plt.show()
